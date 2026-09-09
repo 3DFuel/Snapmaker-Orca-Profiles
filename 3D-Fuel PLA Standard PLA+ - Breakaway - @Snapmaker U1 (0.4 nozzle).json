@@ -1,0 +1,34 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_notes": [
+        "Saved by John Schneider 1-28-26 @ 12:29pm\n\nUpdated 5/8/26 @ 9:31am\n- Min fan speed: 40 -> 10% (was having trouble getting PCTG to stick to PLA in the prime tower\n\nUpdated 5/8/26 @ 10:42am\n- Min fan speed: 10 -> 0% (still having trouble getting PCTG to stick to PLA in the prime tower)"
+    ],
+    "filament_settings_id": [
+        "3D-Fuel PLA Standard PLA+ - Breakaway - @Snapmaker U1 (0.4 nozzle)"
+    ],
+    "from": "User",
+    "inherits": "3D-Fuel Standard PLA+ @Snapmaker U1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "name": "3D-Fuel PLA Standard PLA+ - Breakaway - @Snapmaker U1 (0.4 nozzle)",
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.2.40.2"
+}

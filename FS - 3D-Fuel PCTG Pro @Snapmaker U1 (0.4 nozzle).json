@@ -1,0 +1,40 @@
+{
+    "filament_max_volumetric_speed": [
+        "7"
+    ],
+    "filament_multitool_ramming_flow": [
+        "5"
+    ],
+    "filament_multitool_ramming_volume": [
+        "6.5"
+    ],
+    "filament_notes": [
+        "Updated 3/11/26 @ 7:06pm\n- Don't slow down outer walls - uncheck\n\nUpdated 3/16/26 @ 8:38am\n- Overhang cooling activation threshold: 10% -> 95%\n- Overhang and external bridges fan speed: 90% -> 70%\n\nUpdated 3/16/26 @ 10:54am\n- Max fan speed threshold: 40 -> 30%\n- Overhangs fan speed: 70 -> 50%\n\nUpdated 4/21/26 @ 2:35pm\n- Updated heated bed temps to 80C for smooth plate options\n\n**Created Full Spectrum Version**\n- Updated Hotend temp: 270 -> 260C\n- Updated retraction length: 0.2 -> 0.1mm\n- Updated max volumetric: 9 -> 7 mm^3/s\n\nUpdated 4/23/26 @ 11:02am\n- Flow Rate: 0.98 -> 0.97\n\nUpdated 4/23/26 @ 2:38pm\n- Flow Rate: 0.97 -> 0.96\n\nUpdated 4/23/26 @ 4:52pm\n- Flow Rate: 0.96 -> 0.95\n\nUpdated 4/23/26 @ 5:40pm\n- Retract amount before wipe: 0 -> 100%\n\nUpdated 4/28/26 @ 1:41pm\n- Multi-tool ramming volume: 5 -> 6.5 mm^3\n\nUpdated 4/28/26 @ 4:53pm\n- Flow: 0.95 -> 0.98\n\nUpdated 4/29/26 @ 8:18am\n- Retraction length: 0.1 -> .3mm\n\nUpdated 4/29/26 @ 2:19pm\n- Hotend temp: 260 -> 250C\n\nUpdated 4/29/26 @ ?\n- Multi-tool ramming flow: 10 -> 5 mm^3/s\n\nUpdated 4/30/26 @ 4:26pm\n- PA: 0.055 -> 0.02\n\nUpdated 5/1/26 @ 12:36am\n- Retraction distance: 0.3 -> 0.6mm\n\nUpdated 9/8/26 @ 1:11pm\n- PA: 0.064"
+    ],
+    "filament_retract_before_wipe": [
+        "100%"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_settings_id": [
+        "FS - 3D-Fuel PCTG Pro @Snapmaker U1 (0.4 nozzle)"
+    ],
+    "from": "User",
+    "inherits": "3D-Fuel PCTG Pro @Snapmaker U1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "name": "FS - 3D-Fuel PCTG Pro @Snapmaker U1 (0.4 nozzle)",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_high": [
+        "270"
+    ],
+    "pressure_advance": [
+        "0.064"
+    ],
+    "version": "2.2.40.2"
+}
